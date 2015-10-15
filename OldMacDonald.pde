@@ -1,6 +1,7 @@
-
+Farm Foster;
 void setup()
 {
-	//your variable declarations here
+	Foster = new Farm();
+	Foster.animalSounds();
 }
 
